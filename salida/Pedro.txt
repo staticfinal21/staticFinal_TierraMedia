@@ -1,0 +1,21 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Pedro 
+ 
+ -Ofertas compradas:
+
+ -Atracción: Lothlorien 
+ -Duración: 1.0 horas 
+ -Precio: $35.0 
+
+,  -Atracción: Moria 
+ -Duración: 2.0 horas 
+ -Precio: $10.0 
+
+------------------------------ 
+ -Ofertas: Lothlorien, Moria 
+ -Duración Total: 3.0 horas 
+ -Gasto Total: $45.00 
+------------------------------
+ -Dinero disponible: 105.00 
+ -Tiempo disponible: 0.0

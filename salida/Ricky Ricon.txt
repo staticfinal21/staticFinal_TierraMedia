@@ -1,0 +1,19 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Ricky Ricon 
+ 
+ -Ofertas compradas:
+
+ -Promoción: Degustacion 
+ -Atracciones incluidas: Lothlorien, La Comarca 
+ -Duración: 7.5 horas 
+ -Precio original: $38.0 
+ -Precio con descuento: $36.00 
+
+------------------------------ 
+ -Ofertas: Degustacion 
+ -Duración Total: 7.5 horas 
+ -Gasto Total: $36.00 
+------------------------------
+ -Dinero disponible: 964.00 
+ -Tiempo disponible: 42.5

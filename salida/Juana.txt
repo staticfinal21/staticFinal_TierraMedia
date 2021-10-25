@@ -1,0 +1,17 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Juana 
+ 
+ -Ofertas compradas:
+
+ -Atracción: Abismo de Helm 
+ -Duración: 2.0 horas 
+ -Precio: $5.0 
+
+------------------------------ 
+ -Ofertas: Abismo de Helm 
+ -Duración Total: 2.0 horas 
+ -Gasto Total: $5.00 
+------------------------------
+ -Dinero disponible: 10.00 
+ -Tiempo disponible: 3.0

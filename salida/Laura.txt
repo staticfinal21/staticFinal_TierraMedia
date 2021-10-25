@@ -1,0 +1,19 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Laura 
+ 
+ -Ofertas compradas:
+
+ -Promoción: Super Aventura 
+ -Atracciones incluidas: Minas Tirith, Abismo de Helm, Erebor 
+ -Duración: 7.5 horas 
+ -Precio original: $22.0 
+ -Precio con descuento: $10.00 
+
+------------------------------ 
+ -Ofertas: Super Aventura 
+ -Duración Total: 7.5 horas 
+ -Gasto Total: $10.00 
+------------------------------
+ -Dinero disponible: 0.00 
+ -Tiempo disponible: 2.5

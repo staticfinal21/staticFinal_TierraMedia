@@ -1,0 +1,19 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Galadriel 
+ 
+ -Ofertas compradas:
+
+ -Promoción: Degustacion Light 
+ -Atracciones incluidas: Bosque Negro, Moria 
+ -Duración: 6.0 horas 
+ -Precio original: $13.0 
+ -Precio con descuento: $10.00 
+
+------------------------------ 
+ -Ofertas: Degustacion Light 
+ -Duración Total: 6.0 horas 
+ -Gasto Total: $10.00 
+------------------------------
+ -Dinero disponible: 110.00 
+ -Tiempo disponible: 0.0

@@ -1,0 +1,13 @@
+	  -- Itinerario -- 
+ 
+ -Usuario: Eowyn 
+ 
+ -Ofertas compradas:
+
+------------------------------ 
+ -Ofertas:  
+ -Duración Total: 0.0 horas 
+ -Gasto Total: $0.00 
+------------------------------
+ -Dinero disponible: 100.00 
+ -Tiempo disponible: 8.0
