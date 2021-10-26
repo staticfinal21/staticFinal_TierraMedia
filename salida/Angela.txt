@@ -4,20 +4,16 @@
  
  -Ofertas compradas:
 
- -Promoción: Super Aventura 
- -Atracciones incluidas: Minas Tirith, Abismo de Helm, Erebor 
- -Duración: 7.5 horas 
- -Precio original: $22.0 
- -Precio con descuento: $10.00 
-
-,  -Atracción: Lothlorien 
- -Duración: 1.0 horas 
- -Precio: $35.0 
+ -Promoción: Aventura Plus 
+ -Atracciones incluidas: Mordor, Bosque Negro, Lothlorien 
+ -Duración: 8.0 horas 
+ -Precio original: $63.0 
+ -Precio con descuento: $56.70 
 
 ------------------------------ 
- -Ofertas: Super Aventura, Lothlorien 
- -Duración Total: 8.5 horas 
- -Gasto Total: $45.00 
+ -Ofertas: Aventura Plus 
+ -Duración Total: 8.0 horas 
+ -Gasto Total: $56.70 
 ------------------------------
- -Dinero disponible: 31.00 
- -Tiempo disponible: 0.5
+ -Dinero disponible: 19.30 
+ -Tiempo disponible: 1.0

@@ -31,11 +31,11 @@ public class TierraMedia {
 	}
 
 	public boolean agregarListaAtracciones(String rutaArchivo) {
-		return listaAtracciones.addAll(LectorAtracciones.cargarAtracciones(rutaArchivo));
+		return listaAtracciones.addAll(LectorAtraccion.cargarAtracciones(rutaArchivo));
 	}
 
 	public boolean agregarListaPromociones(String rutaArchivo) {
-		return listaPromociones.addAll(LectorPromociones.cargarPromociones(rutaArchivo, listaAtracciones));
+		return listaPromociones.addAll(LectorPromocion.cargarPromociones(rutaArchivo, listaAtracciones));
 	}
 
 	public Atraccion buscar(int posicion) {

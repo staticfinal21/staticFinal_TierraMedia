@@ -3,7 +3,7 @@ package tierraMedia;
 import java.util.List;
 
 public class PromocionAbsoluta extends Promocion {
-	private Double precioConDescuento;
+	private double precioConDescuento;
 
 	public PromocionAbsoluta(String nombrePromocion, Double precioConDescuento, List<Atraccion> listaAtracciones) {
 		super(nombrePromocion, listaAtracciones);

@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LectorPromociones {
+public class LectorPromocion {
 
 	public static ArrayList<Promocion> cargarPromociones(String path, List<Atraccion> atracciones) {
 		ArrayList<Promocion> promociones = new ArrayList<Promocion>();
@@ -39,8 +39,10 @@ public class LectorPromociones {
 				if (tipoPromo.equals("ABSOLUTA"))
 					promociones.add(new PromocionAbsoluta(nombre, monto, atraccionesDePromocion));
 
-				if (tipoPromo.equals("AXB"))
-					promociones.add(new PromocionAxB(nombre, monto, atraccionesDePromocion));
+				if (tipoPromo.equals("AXB")) {
+					int cantidad = Integer.parseInt(datos[2]);
+					promociones.add(new PromocionAxB(nombre, cantidad, atraccionesDePromocion));
+				}
 
 				linea = br.readLine();
 			}

@@ -4,16 +4,16 @@
  
  -Ofertas compradas:
 
- -Promoción: Degustacion 
- -Atracciones incluidas: Lothlorien, La Comarca 
- -Duración: 7.5 horas 
- -Precio original: $38.0 
- -Precio con descuento: $36.00 
+ -Promoción: Aventura 
+ -Atracciones incluidas: Mordor, Bosque Negro 
+ -Duración: 7.0 horas 
+ -Precio original: $28.0 
+ -Precio con descuento: $22.40 
 
 ------------------------------ 
- -Ofertas: Degustacion 
- -Duración Total: 7.5 horas 
- -Gasto Total: $36.00 
+ -Ofertas: Aventura 
+ -Duración Total: 7.0 horas 
+ -Gasto Total: $22.40 
 ------------------------------
- -Dinero disponible: 0.00 
- -Tiempo disponible: 0.5
+ -Dinero disponible: 13.60 
+ -Tiempo disponible: 1.0

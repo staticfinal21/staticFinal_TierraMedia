@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class LectorAtracciones {
+public class LectorAtraccion {
 
 	public static ArrayList<Atraccion> cargarAtracciones(String path) {
 		ArrayList<Atraccion> atracciones = new ArrayList<Atraccion>();

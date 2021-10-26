@@ -10,11 +10,11 @@
  -Precio original: $50.0 
  -Precio con descuento: $46.00 
 
-,  -Promoción: Aventura 
- -Atracciones incluidas: Mordor, Bosque Negro 
- -Duración: 7.0 horas 
- -Precio original: $28.0 
- -Precio con descuento: $22.40 
+,  -Promoción: Degustacion Light 
+ -Atracciones incluidas: Bosque Negro, Moria 
+ -Duración: 6.0 horas 
+ -Precio original: $13.0 
+ -Precio con descuento: $10.00 
 
 ,  -Atracción: Minas Tirith 
  -Duración: 2.5 horas 
@@ -25,9 +25,9 @@
  -Precio: $5.0 
 
 ------------------------------ 
- -Ofertas: Degustacion Gold, Aventura, Minas Tirith, Abismo de Helm 
- -Duración Total: 22.0 horas 
- -Gasto Total: $78.40 
+ -Ofertas: Degustacion Gold, Degustacion Light, Minas Tirith, Abismo de Helm 
+ -Duración Total: 21.0 horas 
+ -Gasto Total: $66.00 
 ------------------------------
- -Dinero disponible: 1921.60 
- -Tiempo disponible: 78.0
+ -Dinero disponible: 1934.00 
+ -Tiempo disponible: 79.0

@@ -3,10 +3,10 @@ package tierraMedia;
 import java.util.List;
 
 public class PromocionAxB extends Promocion {
-	private double cantidadAtraccionesGratis;
+	private int cantidadAtraccionesGratis;
 	private List<Atraccion> listaAtracciones;
 
-	public PromocionAxB(String nombrePromocion, double cantidadAtraccionesGratis, List<Atraccion> listaAtracciones) {
+	public PromocionAxB(String nombrePromocion, int cantidadAtraccionesGratis, List<Atraccion> listaAtracciones) {
 		super(nombrePromocion, listaAtracciones);
 		this.nombrePromocion = nombrePromocion;
 		this.cantidadAtraccionesGratis = cantidadAtraccionesGratis;

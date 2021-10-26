@@ -4,14 +4,14 @@
  
  -Ofertas compradas:
 
- -Atracción: Abismo de Helm 
- -Duración: 2.0 horas 
- -Precio: $5.0 
+ -Atracción: Erebor 
+ -Duración: 3.0 horas 
+ -Precio: $12.0 
 
 ------------------------------ 
- -Ofertas: Abismo de Helm 
- -Duración Total: 2.0 horas 
- -Gasto Total: $5.00 
+ -Ofertas: Erebor 
+ -Duración Total: 3.0 horas 
+ -Gasto Total: $12.00 
 ------------------------------
- -Dinero disponible: 10.00 
- -Tiempo disponible: 3.0
+ -Dinero disponible: 3.00 
+ -Tiempo disponible: 2.0
